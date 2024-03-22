@@ -1,4 +1,4 @@
-[
+{"players":[
     {
       "id": 1,
       "name": "Lionel Messi",
@@ -18,3 +18,4 @@
       "position": "Forward"
     }
   ]
+}
