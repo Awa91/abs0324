@@ -1,8 +1,6 @@
 [
   {"id":0,
     "name":"FirstName",
-    "email":"example@email",
-    "phone":"0809999999",
     "DoB":"20-9-1999"
   }
 ]
