@@ -38,7 +38,7 @@
       ]
     }
   ],
-  "demo":[
-   { "name":"Demo"}
+  "demos" : [
+   { "name" : "Demo"}
   ]
 }
