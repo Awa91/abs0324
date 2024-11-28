@@ -39,6 +39,6 @@
     }
   ],
   "demo":[
-    "name":"Demo"
+   { "name":"Demo"}
   ]
 }
